@@ -1,0 +1,16 @@
+.set{
+    display: grid;
+    place-items: center;
+    flex: 0 0;
+	width: 100%;
+	background: lightgray;
+	padding: 25px;
+    
+
+	background:
+		linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) bottom left / 150px 2px,
+		linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) bottom left / 2px 100px,
+		linear-gradient(rgb(255, 255, 255), rgb(255, 252, 252)) top right / 150px 2px,
+		linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) top right / 2px 100px;
+	background-repeat: no-repeat;
+}

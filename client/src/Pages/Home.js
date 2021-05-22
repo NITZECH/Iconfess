@@ -162,12 +162,9 @@ export default function Home() {
         <div className={classes.drawerHeader} />
 
         <div className={classes.root}>
-      <Grid container spacing={3}>
-        <Grid alignItems="center" textAlign="center" item xs={10}>
-          <h1>hello</h1>
+      
           <Demo />
-        </Grid>
-      </Grid>
+        
     </div>
       </main>
     </div>
